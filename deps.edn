@@ -1,0 +1,2 @@
+{:paths ["src" "classes"]
+ :deps {lambdaisland/kaocha {:mvn/version "RELEASE"}}}
